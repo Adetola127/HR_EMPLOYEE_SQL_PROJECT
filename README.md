@@ -89,4 +89,4 @@ GitHub – Documentation & portfolio management
 Solomon Adeniran
 Data Analyst | PrimeSol Analytics
 📍 Passionate about uncovering insights through data and storytelling with SQL, Excel, and Power BI.
-
+Data Analyst | Skilled in SQL, Excel, and Power BI LinkedIn Profile www.linkedin.com/in/solomon-adetola-72445830b
